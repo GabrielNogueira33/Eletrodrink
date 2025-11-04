@@ -9,12 +9,19 @@ Programação do projeto eletrodrink, projeto de TCC realizado em 2023 para a co
 
 
  Projeto inspirado em 
+ 
  Cheap portable Cocktail maker Barbot with App!
+ 
  https://www.hackster.io/Seafox_C/cheap-portable-cocktail-maker-barbot-with-app-4f9079
 
  Créditos à 
+ 
  André Bomfim
+ 
  Gabriel Nogueira
+ 
  Guilherme Eugênio
+ 
  Matheus Felix 
+ 
  Vitor Miguel
