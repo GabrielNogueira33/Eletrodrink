@@ -7,7 +7,7 @@ Programação do projeto eletrodrink, projeto de TCC realizado em 2023 para a co
 # Fluxograma
  ![fluxograma eletrodrink](https://github.com/user-attachments/assets/cacd0574-bde4-4f2c-8ca2-96b57287e16a)
 
- Créditos à 
+# Créditos à 
  
  André Bomfim
  
@@ -19,7 +19,7 @@ Programação do projeto eletrodrink, projeto de TCC realizado em 2023 para a co
  
  Vitor Miguel
 
- Projeto inspirado em 
+# Projeto inspirado em 
  
  Cheap portable Cocktail maker Barbot with App!
  
